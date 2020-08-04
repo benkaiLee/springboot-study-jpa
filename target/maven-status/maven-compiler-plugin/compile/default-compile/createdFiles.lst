@@ -1,0 +1,4 @@
+com\gisuni\hellospringbootjpa\servers\userServer.class
+com\gisuni\hellospringbootjpa\repository\userRepository.class
+com\gisuni\hellospringbootjpa\model\user.class
+com\gisuni\hellospringbootjpa\HelloSpringBootJpaApplication.class
